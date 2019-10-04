@@ -1,5 +1,4 @@
-﻿## Welcome to GitHub Pages
-
+﻿## Joe Jordan
 ![image](https://joejordan-r.github.io/headshot.png)
 
 You can use the [editor on GitHub](https://github.com/joejordan-r/joejordan-r.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
