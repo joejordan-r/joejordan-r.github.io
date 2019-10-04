@@ -16,4 +16,4 @@ I focus on applying my knowledge and problem-solving skills to develop commercia
 - I have worked on Pricing models for Motor Insurance
 
 ## Personal
-I enjoy travelling, food, film and I am a fan of Jazz-inspired music.
+I enjoy travelling, food, film and I am a fan of Jazz-inspired music. I'm from Manchester, UK. As a student I studied BSc Maths at Warwick and MSc Applied Statistics at Oxford. I'm open minded and I've lived abroad.
