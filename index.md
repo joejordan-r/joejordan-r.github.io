@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
+
+![image](https://joejordan-r.github.io/headshot.png = 250x250)
 
 You can use the [editor on GitHub](https://github.com/joejordan-r/joejordan-r.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
